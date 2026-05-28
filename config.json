@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvncrypt",
+        "uuid": 33190323,
+        "checksum": "pxts"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
